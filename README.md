@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Matthew and I'm a junior programmer, from United Kingdom</h2>
+<h2 align="center">Hi 👋! My name is Matthew and I'm a junior programmer, from United Kingdom</h2>
 
 ###
 
-<p align="left">I am originally from a Game Development background, however I am also interested/actively learning in Software Development and Web Development.</p>
+<p align="center">I am originally from a Game Development background, however I am also interested/actively learning in Software Development and Web Development.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -50,17 +50,11 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/matthew-watson-311642170/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mw-138/mw-138/output/snake.svg" alt="Snake animation" />
 
 ###
 
